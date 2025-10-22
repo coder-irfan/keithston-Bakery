@@ -1,0 +1,17 @@
+colors:
+F5F5F5
+FBFBFB bg
+933C24
+E9BD8C
+000000
+5D5D5D
+E9BD8D
+111111
+737373
+B9B9B9
+D9D9D9
+E9BD8D
+F9F6F1
+
+font-families:
+Poppins, Inter, Sansita Swashed
