@@ -1,16 +1,52 @@
-# React + Vite
+# 🧁 Keithston Bakery  
+### 🍰 *Sweet Treats, Perfect Eats*  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Keithston Bakery** — a modern, responsive bakery website built with **React + Tailwind CSS**.  
+This project was created from a Figma design and turned into a live, fully coded web experience to practice front-end development and bring design ideas to life.  
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [coder-irfan.github.io/keithston-Bakery](https://coder-irfan.github.io/keithston-Bakery/)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🌟 Features  
+- 🍩 **Modern UI/UX:** Clean, elegant design inspired by real bakery websites.  
+- 💨 **Tailwind CSS:** Utility-first CSS framework for fast and responsive styling.  
+- ⚛️ **React + Vite:** Lightning-fast setup and modular component architecture.  
+- 🎨 **Custom Theme:** Unique color palette and font combinations for a warm, inviting look.  
+- 📱 **Responsive Layout:** Perfectly adapts to all screen sizes — mobile, tablet, and desktop.  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🎨 Design & Styling  
+**Font Families:**  
+- [Poppins](https://fonts.google.com/specimen/Poppins)  
+- [Inter](https://fonts.google.com/specimen/Inter)  
+- [Sansita Swashed](https://fonts.google.com/specimen/Sansita+Swashed)  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Color Palette:**  
+| Name | Hex |
+|------|------|
+| Cream Light | `#F5F5F5` |
+| Background Light | `#FBFBFB` |
+| Primary Brown | `#933C24` |
+| Accent Beige | `#E9BD8C` |
+| Text Dark | `#111111` |
+| Text Gray | `#5D5D5D` |
+| Border Gray | `#D9D9D9` |
+| Light Beige | `#F9F6F1` |
+
+---
+
+## ⚙️ Tech Stack  
+- **Frontend:** React, Tailwind CSS  
+- **Build Tool:** Vite  
+- **Version Control:** Git & GitHub  
+
+---
+
+## 🚀 Getting Started  
+
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/coder-irfan/keithston-Bakery.git
+cd keithston-Bakery
