@@ -36,14 +36,14 @@ function App() {
 
       <TopProducts />
 
-      <div className="bg-discount-bg bg-colors-bgDark bg-cover bg-no-repeat bg-center relative">
+      <div className="bg-discount-bg bg-colors-bgWhite bg-cover bg-no-repeat bg-center relative">
         <Discount />
         <div className="z-0 h-full bg-colors-bgDark absolute inset-0 bg-opacity-20 md:bg-opacity-10"></div>
       </div>
 
       <ExploreMore />
 
-      <div className="bg-about-bg bg-colors-bgDark bg-cover bg-no-repeat bg-center relative">
+      <div className="bg-about-bg bg-colors-bgWhite bg-cover bg-no-repeat bg-center relative">
         <About />
         <div className="z-0 h-full bg-colors-bgDark absolute inset-0 bg-opacity-30 md:bg-opacity-40"></div>
       </div>

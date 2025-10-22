@@ -68,7 +68,7 @@ function TopProducts() {
             {products.map((product) => (
               <div
                 key={product.id}
-                className="flex flex-col gap-4 bg-bread-bg bg-no-repeat bg-cover bg-center rounded-md p-4"
+                className="flex flex-col gap-4  bg-colors-bgDark rounded-md p-4"
               >
                 <img
                   src={product.img}
